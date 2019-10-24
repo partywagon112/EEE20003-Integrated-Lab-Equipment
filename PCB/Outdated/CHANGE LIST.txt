@@ -1,0 +1,11 @@
+1. OE on Buffer to be tied low, instead of high.
+2. Update PSU to 5V Input side.
+3. OLED pinout reversed.
+4. Rotate stepper LEDs.
+5. Arrows on traffic intersection to be shifted for visibility.
+6. Smaller CMF
+7. Indirect enable on the PSU.
+8. Tent the vias
+9. Change traffic light LED colours
+10. Fix button press pullup to pulldown
+11. I2C pulldowns need to be pullups
